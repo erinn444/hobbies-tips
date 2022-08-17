@@ -1,0 +1,204 @@
+.logo { 
+    height: 60px;
+    padding-right: 28px;
+}
+
+hr {
+    height: 20px;
+    margin-bottom: 8px;
+
+}
+
+.nav { 
+    background-color: #EBE5D9;
+    margin-top: 20px;
+    padding: 20px;
+    
+}
+
+.nav li  a { 
+    color: black;
+}
+
+.navbar form{
+
+margin-left: 520px;
+width: 35%;
+}
+
+
+
+.navbar input { 
+   background-color: white;
+   border: 2px solid #1C1919;
+   color: white;
+    border-radius: 100px;
+    width: 500%;
+  
+}
+
+.navbar .arrow { 
+    height: 26px;
+    margin-left: 200px;
+}
+
+.jumbotron {
+    height: 400px;
+    margin-top: 16px;
+    background-image: url("images/spacejoy-c0JoR_-2x3E-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.jumbotron .btn { 
+    background-color: black;
+    border: 2px solid black;
+    width: 20%;
+    border-radius: 100px;
+    margin-left: 280px;
+    margin-top: 40px;
+    font-size: 18px;
+    color: white;
+    text-align: left;
+}
+
+.jumbotron img { 
+    height: 20px;
+    margin-left: 120px;
+}
+
+.jumbotron h1 { 
+    padding-top: 100px;
+    padding-left: 40px;
+    font-family: 'Aboreto', cursive;
+    font-weight: 500;
+}
+
+
+
+.jumbotron p { 
+    padding-left: 60px;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.card { 
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);;
+} 
+
+.learn { 
+    display: flex;
+    flex-direction: row;
+height: 500px;
+background-color: #A66B49;
+}
+
+.learn img {
+    height: 450px;
+    margin-top: 30px;
+}
+
+.learn h2 { 
+    color: white;
+}
+
+.learn p { 
+    color: white;
+}
+
+
+section {
+    margin-top: 20px;
+}
+
+.room {
+    padding-top: 20px;
+    padding-bottom: 32px;
+}
+
+.room h2 {
+margin-left: 40px;
+padding-bottom: 32px;
+}
+
+.room .mini-nav { 
+    background-color: #FAFBF6;
+    border: 1px solid #E3E3D9;
+    
+}
+
+.container button {
+    background-color: #1C1919;
+    color: white;
+   padding: 10px 30px;
+    border-radius: 100px;
+    border: 1px solid #1C1919;
+    width: 25%;
+    text-align: left;
+
+    
+    
+}
+
+.learn-text {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.style h2 { 
+    margin-left: 40px;
+    margin-top: 32px;
+}
+
+.card-body { 
+    text-align: left;
+    background-color: white;
+    
+
+}
+
+.card-body .btn { 
+    background-color: black;
+    border-radius: 100px;
+    border: #1C1919;
+    width: 30%;
+    text-align: center;
+}
+
+.extra { 
+    margin-top: 48px;
+}
+
+
+.footer { 
+    background-color: #1C1919;
+    
+}
+
+
+footer { 
+    background-color: #1C1919;
+}
+
+footer h1 { 
+    color: white;
+    padding-left: 40px;
+    border: 2px solid red;
+    width: fit-content;
+
+}
+
+footer p { 
+    color: white;
+    text-align: center;
+    font-size: 12px;
+    font-weight: 100;
+    padding: 20px;
+}
+
+
+.footer a { 
+    color: white;
+}
